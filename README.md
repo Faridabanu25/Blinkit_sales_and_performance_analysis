@@ -15,6 +15,31 @@ KPIs Tracked:
   2.	Average Sales: Average revenue per sale.
   3.	Number of Items Sold: Total count of different items sold.
   4.	Average Rating: Average customer rating for items sold.
+     
+Visualizations and Insights:
+  1.	Total Sales by Fat Content: 
+    o	Analyses the impact of fat content (Low Fat vs Regular) on total sales.
+    o	Visualized as a Donut Chart.
+  2.	Total Sales by Item Type: 
+    o	Compares sales performance across item categories like Fruits, Snacks, etc.
+    o	Visualized as a Bar Chart.
+  3.	Sales by Outlet Size: 
+    o	Highlights the relationship between outlet size (Small, Medium, High) and sales performance.
+    o	Visualized as a Pie Chart.
+  4.	Outlet Performance by Establishment Year: 
+    o	Tracks sales trends based on the year of outlet establishment.
+    o	Visualized as a Line Chart.
+  5.	Sales by Outlet Location: 
+    o	Explores geographic sales distribution across Tier 1, 2, and 3 locations.
+    o	Visualized as a Funnel Map.
+  6.	Comprehensive Metrics by Outlet Type: 
+    o	Displays KPIs for different outlet types in a Matrix Card format.
+Advanced Insights:
+  Key insights were generated to guide actionable recommendations, covering:
+    •	Performance trends by product type, outlet size, and location.
+    •	Customer satisfaction improvement strategies.
+    •	Optimizing product visibility and low-performing categories.
+
 ________________________________________
 Steps in Project Development
 1.	Requirement Gathering/Business Understanding
@@ -38,6 +63,8 @@ The Power BI dashboard is the centerpiece of this project. It features:
 •	Dynamic Filters: Users can filter results by outlet type, outlet size, item type, and location.
 •	Interactive Visualizations: Drill-down capabilities and tooltips for enhanced data exploration.
 •	Key Metrics: Highlights total sales, average sales, item count, and customer ratings.
+![image](https://github.com/user-attachments/assets/007822fe-cfd8-4d29-b2ec-96122ee7a808)
+
 _____________________________________
 Insights Generated
 1.	Total Sales Overview:
