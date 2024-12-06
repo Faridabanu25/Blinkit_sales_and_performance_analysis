@@ -52,17 +52,30 @@ ________________________________________
 SQL Data Cleaning process
 Here are the SQL scripts used for data cleaning:
 Step 1: Remove duplicates
+![image](https://github.com/user-attachments/assets/4932a063-5c53-4e87-8ffb-cf0ac1cfee80)
+
 Step 2: Handle missing values
+![image](https://github.com/user-attachments/assets/8f082b0f-b792-427e-86da-ab66e84c5c9d)
+
 Step 3: Standardize formats for categorical columns
+![image](https://github.com/user-attachments/assets/48e009db-5b2a-4b1f-9ca8-5f62c470bb0f)
+
 Step 4: Correct outliers or invalid data
+![image](https://github.com/user-attachments/assets/3cd2f9f2-cc19-4fe8-851f-9fdbd901a308)
+
 Step 5: Remove invalid rows (if applicable).
+![image](https://github.com/user-attachments/assets/991c4df3-1869-4eaf-b27f-8d783ea1bdc1)
+
 Step 6: Validate the cleaning process
+![image](https://github.com/user-attachments/assets/91fc3ef7-889c-4f81-ae00-c1276f877dfc)
+
 ________________________________________
 Power BI Dashboard
 The Power BI dashboard is the centerpiece of this project. It features:
 •	Dynamic Filters: Users can filter results by outlet type, outlet size, item type, and location.
 •	Interactive Visualizations: Drill-down capabilities and tooltips for enhanced data exploration.
 •	Key Metrics: Highlights total sales, average sales, item count, and customer ratings.
+Screenshot of the Dashboard:
 ![image](https://github.com/user-attachments/assets/007822fe-cfd8-4d29-b2ec-96122ee7a808)
 
 _____________________________________
