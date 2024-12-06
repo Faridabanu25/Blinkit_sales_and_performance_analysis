@@ -25,29 +25,30 @@ Visualizations and Insights:
     o	Analyses the impact of fat content (Low Fat vs Regular) on total sales.
     o	Visualized as a Donut Chart.
 
-  3.	Total Sales by Item Type: 
+  2.	Total Sales by Item Type: 
     o	Compares sales performance across item categories like Fruits, Snacks, etc.
     o	Visualized as a Bar Chart.
 
-  5.	Sales by Outlet Size: 
+  3.	Sales by Outlet Size: 
     o	Highlights the relationship between outlet size (Small, Medium, High) and sales performance.
     o	Visualized as a Pie Chart.
 
-  7.	Outlet Performance by Establishment Year: 
+  2.	Outlet Performance by Establishment Year: 
     o	Tracks sales trends based on the year of outlet establishment.
     o	Visualized as a Line Chart.
 
-  9.	Sales by Outlet Location: 
+  5.	Sales by Outlet Location: 
     o	Explores geographic sales distribution across Tier 1, 2, and 3 locations.
     o	Visualized as a Funnel Map.
 
-  11.	Comprehensive Metrics by Outlet Type: 
+  6.	Comprehensive Metrics by Outlet Type: 
     o	Displays KPIs for different outlet types in a Matrix Card format.
 
 
 Advanced Insights:
 
   Key insights were generated to guide actionable recommendations, covering:
+  
     •	Performance trends by product type, outlet size, and location.
     •	Customer satisfaction improvement strategies.
     •	Optimizing product visibility and low-performing categories.
@@ -152,18 +153,15 @@ Recommendations:
 6.	Regularly Review Outlet Ratings and Feedback:
   o	The 4.0 average rating indicates customer satisfaction is generally high, but continuous monitoring and gathering customer feedback are essential to maintaining or improving service standards across all outlets. Surveys or focus groups might reveal areas for improvement, especially in outlets with lower customer ratings.
 
-7.	Optimize Inventory Based on Sales Patterns:
+8.	Optimize Inventory Based on Sales Patterns:
   o	The sales pattern indicates a strong preference for certain items like Fruits and Snacks. Optimize inventory management to ensure these high-demand products are always well-stocked, especially in larger outlets and higher-tier locations.
 
 ________________________________________
 Technologies Used
 
 •	Data Preparation: SQL
-
 •	Data Analysis and Visualization: Power BI
-
 •	Languages: DAX, SQL
-
 •	Tools: Power BI Desktop, Microsoft Excel
 
 
