@@ -1,6 +1,8 @@
 # blinkit_sales_and_performance_analysis
 Blinkit Sales and Performance Analysis
+
 Overview
+
 This project is a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution using Power BI dashboards. The goal is to uncover actionable insights and optimization opportunities through various KPIs and visualizations.
 ________________________________________
 Business Objective
@@ -48,7 +50,6 @@ Visualizations and Insights:
 Advanced Insights:
 
   Key insights were generated to guide actionable recommendations, covering:
-  
     •	Performance trends by product type, outlet size, and location.
     •	Customer satisfaction improvement strategies.
     •	Optimizing product visibility and low-performing categories.
@@ -160,8 +161,11 @@ ________________________________________
 Technologies Used
 
 •	Data Preparation: SQL
+
 •	Data Analysis and Visualization: Power BI
+
 •	Languages: DAX, SQL
+
 •	Tools: Power BI Desktop, Microsoft Excel
 
 
